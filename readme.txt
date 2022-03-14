@@ -9,5 +9,3 @@ publish, by sending to four servers, messages to the proposed platform using a p
 The desired functionality is that each TCP client receives those messages from the server, coming from
 client, ii UDP, which refer to the topics to which they are subscribed, i. The architecture includes a component of SF
 (store&foreward) component on messages sent when TCP clients are disconnected.
-
-Translated with www.DeepL.com/Translator (free version)
